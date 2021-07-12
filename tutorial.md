@@ -2,19 +2,19 @@
 
 ## Step 1
 
-Click Basic and add display smiley block
+Add a showString block to say Hello.
 
-'''blocks
-basic.showString(":)")
-'''
+```blocks
+basic.showString("Hello")
+```
 
 ## Step 2
 
-Click Basic and add show string block
+Add another block to display a smiley face.
 
-'''blocks
+```blocks
 basic.showString("Hello")
-'''
+```
 
 ## Step 3
 

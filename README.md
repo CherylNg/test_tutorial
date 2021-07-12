@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-*[tutorial](/test_tutorial/tutorial)[start](https://makecode.microbit.org/#tutorial:github:cherylng/test_tutorial/tutorial)
+* [tutorial](/test_tutorial/tutorial) [start](https://makecode.microbit.org/#tutorial:github:cherylng/test_tutorial/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/cherylng/test_tutorial/workflows/MakeCode/badge.svg)
 
