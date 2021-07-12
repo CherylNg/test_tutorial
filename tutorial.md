@@ -10,4 +10,12 @@ basic.showString(":)")
 
 ## Step 2
 
+Click Basic and add show string block
+
+'''blocks
+basic.showString("Hello")
+'''
+
+## Step 3
+
 Congratulations, you did it!
