@@ -2,7 +2,9 @@
 
 ## Step 1
 
-Add a showString block to say Hello.
+>Add a ``||Basic||`` ``||showString||`` block. 
+>>Edit it to say ***Hello***.
+![bitbit](https://drive.google.com/file/d/1k25pqW_o02P95l8cwfJPomoiGbWK6XFl/view?usp=sharing)
 
 ```blocks
 basic.showString("Hello")
