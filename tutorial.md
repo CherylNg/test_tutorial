@@ -1,4 +1,4 @@
-# My Tutorial 1 @showdialog
+# My Tutorial 1 @showhint
 Are you excited to start coding?
 
 ## Step 1
