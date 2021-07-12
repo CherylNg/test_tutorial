@@ -13,7 +13,7 @@ basic.showString("Hello")
 Add another block to display a smiley face.
 
 ```blocks
-basic.showString("Hello")
+basic.showString(":)")
 ```
 
 ## Step 3
