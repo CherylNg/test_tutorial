@@ -1,14 +1,9 @@
 
 > Open this page at [https://cherylng.github.io/test_tutorial/](https://cherylng.github.io/test_tutorial/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/cherylng/test_tutorial** and import
+*[tutorial](/test_tutorial/tutorial)[start](https://makecode.microbit.org/#tutorial:github:cherylng/test_tutorial/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/cherylng/test_tutorial/workflows/MakeCode/badge.svg)
 
