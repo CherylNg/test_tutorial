@@ -88,7 +88,9 @@ basic.forever(function () {
 ## Step 8
 
 Download the code to your ZOOM:BIT and power it up by sliding the power switch to **ON**.
-Check out this **[demo video](https://youtu.be/-FZ8yTnoozY)** if you're not sure how to download the code. 
+
+Watch this **[demo video](https://youtu.be/-FZ8yTnoozY)** if you're not sure how to download the code. 
+
 
 ## Congratulations!! You have taught ZOOM:BIT to say hello~ @unplugged
 
