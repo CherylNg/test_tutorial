@@ -98,4 +98,4 @@ Do you hear ZOOM:BIT greeting you? Do you see "Hello!" scroll across the LED mat
 If you missed it, you can slide the power switch to OFF, and then turn it ON again to reset.
 
 
-![ZOOM:BIT](/docs/static/ZipZipZoom.png)
+![ZOOM:BIT](https://raw.githubusercontent.com/CherylNg/test_tutorial/master/docs/static/ZipZipZoom.png)
