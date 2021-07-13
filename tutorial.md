@@ -94,9 +94,8 @@ Watch this **[demo video](https://youtu.be/-FZ8yTnoozY)** if you're not sure how
 
 ## Congratulations!! You have taught ZOOM:BIT to say hello~ @unplugged
 
-Do you hear ZOOM:BIT greeting you? Do you see "Hello!" scroll across the LED matrix? If you missed it, you can slide the power switch to OFF, and then turn it ON again to reset.
+Do you hear ZOOM:BIT greeting you? Do you see "Hello!" scroll across the LED matrix? 
+If you missed it, you can slide the power switch to OFF, and then turn it ON again to reset.
+
 
 ![ZOOM:BIT](/docs/static/ZipZipZoom.png)
-
-
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
