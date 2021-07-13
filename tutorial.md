@@ -6,6 +6,7 @@ Are you excited to start coding?
 >Add a ``||Basic||`` ``||showString||`` block. 
 >>Edit it to say ***Hello***.
 
+Say hello to Bit Bit
 ![Bit Bit](https://github.com/CherylNg/test_tutorial/blob/master/images/Bit%20Bit.jpg)
 
 ```blocks
