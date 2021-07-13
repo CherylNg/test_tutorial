@@ -4,7 +4,7 @@
 
 For this tutorial, we'll program ZOOM:BIT to say Hello when powered up.
 
-![ZOOM:BIT](/docs/static/ZipZipZoom.png)
+![ZOOM:BIT](https://raw.githubusercontent.com/CherylNg/test_tutorial/master/docs/static/ZipZipZoom.png)
 
 
 ## Step 1
