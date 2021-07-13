@@ -3,7 +3,7 @@ Are you excited to start coding?
 
 ## Step 1
 
->Add a ``||Basic||`` ``||showString||`` block. 
+>Add a ``||basic:Basic||`` ``||basic:showString||`` block. 
 >>Edit it to say ***Hello***.
 
 Say hello to Bit Bit
