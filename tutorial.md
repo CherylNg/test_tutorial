@@ -1,6 +1,6 @@
-# Let's get ZOOM:BIT to say Hello!
+# Hello World~
 
-## Hello World @unplugged
+## Let's get ZOOM:BIT to say Hello! @unplugged
 
 For this tutorial, we'll program ZOOM:BIT to say Hello when powered up.
 
@@ -9,7 +9,7 @@ For this tutorial, we'll program ZOOM:BIT to say Hello when powered up.
 
 ## Step 1
 From the ``||music:Music||`` category, get a ``||music:play sound (giggle) until done||`` block. 
-Click and snap the block to the ``||basic:on start||`` container. 
+Snap the block to the ``||basic:on start||`` container. 
 
 ```blocks 
 //@highlight
@@ -25,7 +25,7 @@ soundExpression.hello.playUntilDone()
 
 ## Step 3
 From the ``||music:Music||`` category, get a ``||music:play sound (giggle)||`` block. 
-Click and snap the block to the ``||basic:on start||`` container. 
+Snap the block to the ``||basic:on start||`` container. 
 
 ```blocks 
 soundExpression.hello.playUntilDone()
@@ -45,7 +45,7 @@ soundExpression.twinkle.play()
 
 ## Step 5
 
-Click ``||basic:Basic||`` and add a ``||basic:showString (Hello!)||`` block to your code.
+Click ``||basic:Basic||`` and add a ``||basic:showString (Hello!)||`` block to your code. Snap it to the ``||basic:on start||`` container.
 
 ```blocks 
 soundExpression.hello.playUntilDone()
