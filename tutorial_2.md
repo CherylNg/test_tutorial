@@ -6,6 +6,9 @@ For this tutorial, we'll program ZOOM:BIT to automatically turn on its headlight
 
 ![ZOOM:BIT](https://raw.githubusercontent.com/CherylNg/test_tutorial/master/docs/static/ZipZipZoom.png)
 
+```package
+zoombit=github:CytronTechnologies/pxt-zoombit
+```
 
 ## Step 1
 Click ``||logic:Logic||`` category and select ``||logic:if-then-else||`` block. 
@@ -55,10 +58,9 @@ basic.forever(function () {
 ```
 
  ## Step 3
+Click ``||zoombit:ZOOM:BIT||`` category and select ``||zoombit:set (left) headlight to (on)||`` block. 
+Attach to the top slot of the ``||logic:if-then-else||`` block. Click on the setting ``||zoombit:left||`` and change to ``||zoombit:all||``. 
 
-```package
-zoombit=github:CytronTechnologies/pxt-zoombit
-```
 ```blocks
 soundExpression.hello.playUntilDone()
 soundExpression.twinkle.play()
