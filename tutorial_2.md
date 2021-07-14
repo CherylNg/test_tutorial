@@ -66,11 +66,11 @@ soundExpression.hello.playUntilDone()
 soundExpression.twinkle.play()
 basic.showString("Hello!")
 basic.forever(function () {
-//@hightlight
-    if (input.lightLevel() < 50) {
+    if (input.lightLevel() < 50)
+    //@hightlight 
+    {
         zoombit.setHeadlight(HeadlightChannel.All, zoombit.digitalStatePicker(DigitalIoState.On))
-    } else {
-        zoombit.setHeadlight(HeadlightChannel.All, zoombit.digitalStatePicker(DigitalIoState.Off))
+    } else {}
     {
     basic.showIcon(IconNames.Heart)
     basic.showIcon(IconNames.SmallHeart)
