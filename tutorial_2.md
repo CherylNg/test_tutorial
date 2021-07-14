@@ -56,8 +56,7 @@ basic.forever(function () {
     basic.showIcon(IconNames.SmallHeart)
     }
 ```
-
- ## Step 3
+## Step 3
 Click ``||zoombit:ZOOM:BIT||`` category and select ``||zoombit:set (left) headlight to (on)||`` block. 
 Attach to the top slot of the ``||logic:if-then-else||`` block. Click on the setting ``||zoombit:left||`` and change to ``||zoombit:all||``. 
 
