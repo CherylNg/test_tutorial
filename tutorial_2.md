@@ -1,4 +1,5 @@
 ### @explicitHints true
+### @flyoutOnly true
 
 # LIGHT UP! 
 
