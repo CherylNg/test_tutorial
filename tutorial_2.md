@@ -57,7 +57,7 @@ basic.forever(function () {
  ## Step 3
 
 ```package
- ZOOM:BIT=CytronTechnologies/pxt-zoombit
+zoombit=github:CytronTechnologies/pxt-zoombit
 ```
 ```blocks
 soundExpression.hello.playUntilDone()
