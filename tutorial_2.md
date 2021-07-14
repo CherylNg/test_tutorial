@@ -8,8 +8,9 @@ For this tutorial, we'll program ZOOM:BIT to automatically turn on its headlight
 
 
 ## Step 1
-Click ``||logic:Logic]||`` category and select ``||logic:[if-then-else]||`` block and ``||logic:[ __<__ ]||`` comparison block. 
-Place the comparison block in the "if" slot.
+Click ``||logic:Logic||`` category and select ``||logic:if-then-else||`` block. 
+Snap the block to the ``||basic:forever||`` block. 
+Click ``||logic:Logic||`` category again and select ``||logic:0<0||`` block. Snap it to ``||logic:if||`` slot.
 
 ```template
 soundExpression.hello.playUntilDone()
@@ -35,5 +36,41 @@ basic.forever(function () {
 ```
 
 ## Step 2
+Click ``||input:Input||`` category and then select ``||input:light level||`` block. 
+Snap the block to the left slot of the comparison block. 
+Change the number on the right slot from 0 to **'50'**.
 
- 
+```blocks
+soundExpression.hello.playUntilDone()
+soundExpression.twinkle.play()
+basic.showString("Hello!")
+basic.forever(function () {
+//@hightlight
+    if (input.lightLevel() < 50){}
+    else {}
+    {
+    basic.showIcon(IconNames.Heart)
+    basic.showIcon(IconNames.SmallHeart)
+    }
+```
+
+ ## Step 3
+
+```package
+ ZOOM:BIT=CytronTechnologies/pxt-zoombit
+```
+```blocks
+soundExpression.hello.playUntilDone()
+soundExpression.twinkle.play()
+basic.showString("Hello!")
+basic.forever(function () {
+//@hightlight
+    if (input.lightLevel() < 50) {
+        zoombit.setHeadlight(HeadlightChannel.All, zoombit.digitalStatePicker(DigitalIoState.On))
+    } else {
+        zoombit.setHeadlight(HeadlightChannel.All, zoombit.digitalStatePicker(DigitalIoState.Off))
+    {
+    basic.showIcon(IconNames.Heart)
+    basic.showIcon(IconNames.SmallHeart)
+    }
+```
