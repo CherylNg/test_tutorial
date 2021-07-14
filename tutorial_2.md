@@ -1,3 +1,5 @@
+### @explicitHints true
+
 # LIGHT UP! 
 
 ## Let's get ZOOM:BIT to turn ON its headlights! @unplugged
